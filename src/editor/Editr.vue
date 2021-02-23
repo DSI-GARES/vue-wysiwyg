@@ -161,6 +161,7 @@ export default {
           }
         },
         exec (cmd, arg, sel){
+            // document.getElementById( 'editor' ).focus();
             sel !== false && this.selection && this.restoreSelection(this.selection);
             document.execCommand(cmd, false, arg||"");
             this.clearSelection();
