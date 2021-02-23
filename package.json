@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "dsi-gares-vue-wysiwyg",
+=======
+  "name": "DSI-GARES-vue-wysiwyg",
+>>>>>>> 0a320e8d40b8fbe019ea9efdd7d0b06f5cebd6dd
   "version": "1.7.3",
   "description": "A WYSIWYG HTML editor for Vue.js",
   "keywords": [
